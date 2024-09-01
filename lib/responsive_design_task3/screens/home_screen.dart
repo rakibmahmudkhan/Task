@@ -173,7 +173,7 @@ class _HomeScreenState extends State<HomeScreen> {
     );
   }
 
-  Container buildDesktopBody() {
+  Widget buildDesktopBody() {
     return Container(
       color: Colors.white,
       child: Padding(

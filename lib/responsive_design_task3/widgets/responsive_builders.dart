@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:task/utils/screen_utils.dart';
+import 'package:task/responsive_design_task3/utils/screen_utils.dart';
 
 class ResponsiveBuilders extends StatelessWidget {
   const ResponsiveBuilders(
